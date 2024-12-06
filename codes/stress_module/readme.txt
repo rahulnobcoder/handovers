@@ -1,0 +1,1 @@
+Run st.py with command streamlit run st.py or run test.py by mentioning paths in the commented part at the end of the file.

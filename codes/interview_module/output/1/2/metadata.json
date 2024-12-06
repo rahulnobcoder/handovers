@@ -1,0 +1,37 @@
+{
+    "duration": 23.49,
+    "facial_emotion_recognition": {
+        "class_wise_frame_count": {
+            "angry": 36,
+            "disgust": 146,
+            "fear": 10,
+            "happy": 36,
+            "neutral": 842,
+            "sad": 10,
+            "surprised": 330
+        }
+    },
+    "audio": {
+        "transcript": " Hello, I am Benesh. How are you? It's nice to meet you. It's very hot here and I am feeling very sleepy now.",
+        "sentiment": [
+            {
+                "label": "Positive",
+                "score": 0.7489377856254578
+            }
+        ],
+        "sound_intensity": 0.011787964962422848,
+        "fundamental_frequency": 207.35014327738318,
+        "spectral_energy": 485.7623291015625,
+        "spectral_centroid": 2120.992258329127,
+        "zero_crossing_rate": 0.1996791294642857,
+        "avg_words_per_minute": 63.85696040868455,
+        "avg_unique_words_per_minute": 48.53128991060026,
+        "unique_word_count": 19,
+        "filler_words_per_minute": 0.0,
+        "noun_count": 2,
+        "adjective_count": 3,
+        "verb_count": 8,
+        "pause_rate": 0.0,
+        "top3": "Communication Skills, Positive Attitude,  Adaptability\n"
+    }
+}
