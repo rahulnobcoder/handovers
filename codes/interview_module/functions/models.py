@@ -13,7 +13,7 @@ nltk.download('averaged_perceptron_tagger')
 # Set your API key
 import google.generativeai as genai
 
-api_key='AIzaSyCU1oULP-rbHovW4B6ODgiE9jgFaHYfhWE'
+api_key=''
 genai.configure(api_key=api_key)
 
 # Choose a Gemini model
